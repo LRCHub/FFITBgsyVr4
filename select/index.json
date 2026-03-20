@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Lovers",
   "base_artist": "sumika",
-  "createdAt": "2025-12-02T15:32:33.274750Z",
+  "createdAt": "2026-03-20T07:40:37.772389Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "sumika",
       "has_synced": false,
       "path": "select/pl_01_Lovers_sumika.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Lovers",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/localdb_01_Lovers_sumika.txt",
+      "repo_name": "FFITBgsyVr4"
     }
   ]
 }
